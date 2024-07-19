@@ -1,3 +1,8 @@
+#主程序
+#pygame实现的人机对战
+#本地环境做项目的一次尝试，对流程的初步熟悉
+#运行需要下载game.py mcts.py
+
 import pygame
 import sys
 import math
