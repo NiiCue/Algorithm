@@ -1,3 +1,6 @@
+#蒙特卡洛搜索树的代码
+#用随机走子实现的stimulation
+
 import time
 import random
 import copy
