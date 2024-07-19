@@ -1,5 +1,7 @@
-import copy
+#用pycharm实现的简单双人对战
+#对游戏规则进行了熟悉
 
+import copy
 import pygame
 import sys
 import math
