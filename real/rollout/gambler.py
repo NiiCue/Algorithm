@@ -1,5 +1,5 @@
 """
-Created on Sat Jul 20 17:31 2024
+Created on Sat, Jul 20, 2024 at 17:31
 Author: Chi Ran
 用赌徒策略进行rollout
 主要用于测试蒙特卡洛搜索树在真实环境的效率
