@@ -1,6 +1,6 @@
 """
 Version 0.5
-Created on Sat Jul 20 15:26 2024
+Created on Sat, Jul 20, 2024 at 15:26
 Author: Chi Ran
 用蒙特卡洛搜索树实现
 为方便合作，先编写了搜索树中除simulate以外的部分
